@@ -5,7 +5,7 @@ actors:
     url: https://twitter.com/_manji0
 author: manji0
 description: The podcast by Verda developers
-description_long: Verdaという謎の組織にいる人が雑談したり興味のある技術について話すラジオです。
+description_long: Verdaという謎の組織にいる人が雑談したり興味のある技術について話すラジオ
 email: request@verda.fm
 exclude:
   - docker
