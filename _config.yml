@@ -27,3 +27,5 @@ sass:
 timezone: Asia/Tokyo
 title: Verda FM
 url: https://www.verda.fm
+github:
+  url: https://www.verda.fm
