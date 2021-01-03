@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/hayakawa.jpg
     name: Yutaro Hayakawa
     url: https://twitter.com/YutaroHayakawa
+  andy:
+    image_url: /images/actors/andy.jpg
+    name: Shin Ando
+    url: https://twitter.com/andoshin11
 author: manji0
 description: The podcast by Verda developers
 description_long: Verdaという謎の組織にいる人が雑談したり興味のある技術について話すラジオ
