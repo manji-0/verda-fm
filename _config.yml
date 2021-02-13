@@ -15,6 +15,10 @@ actors:
     image_url: /images/actors/taisho.png
     name: Hiroki Sakamoto
     url: https://twitter.com/taisho6339
+  ichihara:
+    image_url: /images/actors/ichihara.jpg
+    name: Hirofumi Ichihara
+    url: https://twitter.com/rafiror
 author: manji0
 description: The podcast by Verda developers
 description_long: Verdaという謎の組織にいる人が雑談したり興味のある技術について話すラジオ
